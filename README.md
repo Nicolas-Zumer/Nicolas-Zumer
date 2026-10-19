@@ -13,7 +13,8 @@
 
 > El código siempre tiene que ser lo más simple posible,
 > sacar soluciones complejas a problemas difíciles
-> sólo es el primer paso
+> sólo es el primer paso.
+> 
 > Luego deberás mejorar dicha solución 
 > para que sea sencilla
 
